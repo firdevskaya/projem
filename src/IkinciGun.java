@@ -5,7 +5,7 @@ public class IkinciGun {
 		// TODO Auto-generated method stub
 
 		System.out.println("merhaba");
-		
+		System.out.println("10:11 - İkinci Gün");
 		
 		
 		
