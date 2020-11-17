@@ -11,7 +11,7 @@ public class IkinciGun {
 		System.out.println("11.05-local");
 System.out.println("11.23-github.com");
 		
-
+System.out.println("11.08-bakalim olacak mi?")
 		
 	}
 
