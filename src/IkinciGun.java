@@ -6,7 +6,7 @@ public class IkinciGun {
 
 		System.out.println("merhaba");
 		System.out.println("10:11 - İkinci Gün");
-		
+		System.out.println("10:35 - İkinci Gün");
 		
 		
 	}
