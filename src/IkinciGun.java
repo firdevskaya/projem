@@ -13,7 +13,7 @@ public class IkinciGun {
         System.out.println("ben burdan conflit beklemiyorum");	
         
          System.out.println("yepyeni bir satir");	
-
+System.out.println("10:26- feature branch");
 	}
 }
 
